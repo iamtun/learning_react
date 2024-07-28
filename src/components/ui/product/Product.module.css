@@ -1,5 +1,6 @@
 .container {
   max-width: 30dvw;
+  position: relative;
 
   div {
     &:nth-child(1) {
@@ -20,6 +21,11 @@
     font-weight: 700;
   }
 
+  .description {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
   .btn {
     margin-top: 20px;
     width: 100%;
@@ -27,6 +33,16 @@
     background-color: #49af4f;
     color: #fff;
     font-size: 20px;
+    font-weight: 700;
+  }
+
+  .sale {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 8px 20px;
+    background: rgba(248, 30, 30, 0.8);
+    color: #fff;
     font-weight: 700;
   }
 }
