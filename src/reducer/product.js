@@ -7,7 +7,10 @@ export const counterSlice = createSlice({
   },
   reducers: {
     addProduct: (state, action) => {
-      state.productInCards = [...state.productInCards, action.payload];
+      state.productInCards = [
+        ...state.productInCards,
+        { ...action.payload, quantity: 1 },
+      ];
     },
     removeProduct: (state, action) => {
       state.productInCards = state.productInCards.filter(
@@ -16,32 +19,27 @@ export const counterSlice = createSlice({
     },
     handleQuantity: (state, action) => {
       const { productId, type } = action.payload;
-      const productIdx = state.productInCards.findIndex(
-        (prod) => prod.id === productId
-      );
 
-      if (productIdx) {
-        const product = state.productInCards[productIdx];
-
-        if (type === "add") {
-          product.quantity = ++product.quantity;
-        } else {
-          if (product.quantity > 0) {
-            product.quantity = --product.quantity;
+      state.productInCards = state.productInCards.map((prod) => {
+        if (prod.id === productId) {
+          if (type === "add") {
+            prod.quantity = ++prod.quantity;
           } else {
-            product.quantity = 0;
+            if (prod.quantity > 0) {
+              prod.quantity = --prod.quantity;
+            } else {
+              prod.quantity = 0;
+            }
           }
         }
-        state.productInCards = state.productInCards.splice(
-          productIdx,
-          1,
-          product
-        );
-      }
+
+        return prod;
+      });
     },
   },
 });
 
-export const { addProduct, removeProduct } = counterSlice.actions;
+export const { addProduct, removeProduct, handleQuantity } =
+  counterSlice.actions;
 
 export default counterSlice.reducer;
