@@ -14,6 +14,7 @@
           "title": "Snake Plant",
           "short_description": "Low maintenance plant with striking leaves.",
           "price": 25.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_LargeSnakelaurentii_Large_Balboaplanter-Blush_variant.jpg"
         },
         {
@@ -22,6 +23,7 @@
           "title": "Spider Plant",
           "short_description": "Air-purifying plant with arching leaves.",
           "price": 15.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the_sill-variant-grow_pot-spider_plant.jpg"
         },
         {
@@ -30,6 +32,7 @@
           "title": "Peace Lily",
           "short_description": "Elegant plant with white flowers.",
           "price": 30.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_Peace-Lily-Domino_MediumHyde_Cream.jpg"
         },
         {
@@ -38,6 +41,7 @@
           "title": "ZZ Plant",
           "short_description": "Resilient plant with shiny, dark green leaves.",
           "price": 35.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-white_gloss-zz_plant.jpg"
         },
         {
@@ -46,6 +50,7 @@
           "title": "Philodendron",
           "short_description": "Tropical plant with heart-shaped leaves.",
           "price": 20.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/5IN_Philodendron_Pink_Bikini_Marcelle_Gold_variant.jpg"
         },
         {
@@ -54,6 +59,7 @@
           "title": "Pothos",
           "short_description": "Trailing vine with variegated leaves.",
           "price": 18.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Satin-Pothos_Small_Hyde_Olive_Variant.jpg"
         }
       ]
@@ -67,6 +73,7 @@
           "title": "Rose",
           "short_description": "Classic flower known for its beauty and fragrance.",
           "price": 40.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Parlor-Palm_Small_Isabella_Dusty-Rose_Variant.jpg"
         },
         {
@@ -75,6 +82,7 @@
           "title": "Peruvian Nana Cactus",
           "short_description": "Fragrant plant with purple flowers.",
           "price": 22.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Medium-Peruvian-Old-Lady-Cactus_Medium_Hyde_Mint_Variant.jpg"
         },
         {
@@ -83,6 +91,7 @@
           "title": "Money Tree Plant",
           "short_description": "Bushy plant with large, colorful blooms.",
           "price": 45.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Money-Tree_Small_Marcelle-Gold_Variant.jpg"
         },
         {
@@ -91,6 +100,7 @@
           "title": "Large Fiddle Leaf Fig Tree",
           "short_description": "Cheerful plant with white petals and yellow centers.",
           "price": 12.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Large-Fiddle-leaf-fig-tree_Large_Helena_Tan_Variant.jpg"
         },
         {
@@ -99,6 +109,7 @@
           "title": "Pothos Marble Queen",
           "short_description": "Tall plant with large, yellow flowers.",
           "price": 15.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_marble-queen-pothos_variant_medium_hyde_cream.jpg"
         },
         {
@@ -107,6 +118,7 @@
           "title": "Olive Tree",
           "short_description": "Bright plant with orange and yellow flowers.",
           "price": 10.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/The-Sill_OliveTree_Medium_Hyde_Cream_Variant.jpg"
         }
       ]
@@ -120,6 +132,7 @@
           "title": "Prickly Pear Cactus",
           "short_description": "Classic flower known for its beauty and fragrance.",
           "price": 45.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Opuntia-Josephs-Coat_Small_Westcott_Black_Variant.jpg"
         },
         {
@@ -128,6 +141,7 @@
           "title": "Dracaena Giganta",
           "short_description": "Fragrant plant with purple flowers.",
           "price": 68.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Dracaena-Giganta_Small_Hyde_Olive_Variant.jpg"
         },
         {
@@ -136,6 +150,7 @@
           "title": "Parlor Palm",
           "short_description": "Bushy plant with large, colorful blooms.",
           "price": 45.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_parlor-palm_variant_small_grant_black.jpg"
         },
         {
@@ -144,6 +159,7 @@
           "title": "Monstera /‘Thai Constellation/’",
           "short_description": "Cheerful plant with white petals and yellow centers.",
           "price": 55.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Thai-Consetllation_Small_Marianne_White_Variant-lowres.jpg"
         },
         {
@@ -152,6 +168,7 @@
           "title": "Bromeliad Vriesea Evita Yellow",
           "short_description": "Tall plant with large, yellow flowers.",
           "price": 78.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_bromeliad-vriesea-evita-yellow_small_marianne_white_variant.jpg"
         },
         {
@@ -160,6 +177,7 @@
           "title": "Petite Purple Orchid",
           "short_description": "Bright plant with orange and yellow flowers.",
           "price": 80.0,
+          "quantity": 0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-piedmont-orchid_purple.jpg"
         }
       ]
