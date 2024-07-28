@@ -13,42 +13,42 @@
           "title": "Snake Plant",
           "short_description": "Low maintenance plant with striking leaves.",
           "price": 25.0,
-          "image": "https://www.thespruce.com/thmb/FykNiY1u3tlkrcGhNN_GAKv_c4I=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-snake-plant-1902755-02-5b6f3b6346e0fb00501e9051.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_LargeSnakelaurentii_Large_Balboaplanter-Blush_variant.jpg"
         },
         {
           "id": 2,
           "title": "Spider Plant",
           "short_description": "Air-purifying plant with arching leaves.",
           "price": 15.0,
-          "image": "https://www.thespruce.com/thmb/x3_NkjdxalHCPnSVlwFJypYxSLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-spider-plant-1902756-06-620e79c597d547dcb8c78b7a76837ac2.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the_sill-variant-grow_pot-spider_plant.jpg"
         },
         {
           "id": 3,
           "title": "Peace Lily",
           "short_description": "Elegant plant with white flowers.",
           "price": 30.0,
-          "image": "https://www.thespruce.com/thmb/2eUFLGjjC_4cdUlNq3jA6g2ziX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-peace-lily-plants-1902742-06-54c28e60f0aa4801853df3c439b10377.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_Peace-Lily-Domino_MediumHyde_Cream.jpg"
         },
         {
           "id": 4,
           "title": "ZZ Plant",
           "short_description": "Resilient plant with shiny, dark green leaves.",
           "price": 35.0,
-          "image": "https://www.thespruce.com/thmb/9eOveUwYAD34t97Hb2KtMzImuGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-zz-plant-zamioculcas-zamiifolia-1902763-hero-5426a9f6cb6e46f2a9fa7e4736917ff6.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-white_gloss-zz_plant.jpg"
         },
         {
           "id": 5,
           "title": "Philodendron",
           "short_description": "Tropical plant with heart-shaped leaves.",
           "price": 20.0,
-          "image": "https://www.thespruce.com/thmb/bjo2gjM1a1Tj6MtqxaMPSmC8qU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/growing-philodendron-plants-1902740-05-5505e53096f64e73acb7c02b86b568f3.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/5IN_Philodendron_Pink_Bikini_Marcelle_Gold_variant.jpg"
         },
         {
           "id": 6,
           "title": "Pothos",
           "short_description": "Trailing vine with variegated leaves.",
           "price": 18.0,
-          "image": "https://www.thespruce.com/thmb/7hdJHTm_V9RgGg0AXICmRe_Ulb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-pothos-plants-devils-ivy-1902743-06-5e8cf90e07d34d32b422d3741e184d77.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Satin-Pothos_Small_Hyde_Olive_Variant.jpg"
         }
       ]
     },
@@ -60,89 +60,42 @@
           "title": "Rose",
           "short_description": "Classic flower known for its beauty and fragrance.",
           "price": 40.0,
-          "image": "https://www.thespruce.com/thmb/Mrb9S9-gz5Gsm6J0aGhC6YhwNfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rose-plant-profile-5120161-hero-1fae8188a5cb48d3a12376a23c800a05.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Parlor-Palm_Small_Isabella_Dusty-Rose_Variant.jpg"
         },
         {
           "id": 8,
-          "title": "Lavender",
+          "title": "Peruvian Nana Cactus",
           "short_description": "Fragrant plant with purple flowers.",
           "price": 22.0,
-          "image": "https://www.thespruce.com/thmb/lVYwYY0Z4ei7cvT2ut_8veH4QG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lavender-plants-for-sale-5182281-hero-35a93a0861694f80b8e7c92b0210172b.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Medium-Peruvian-Old-Lady-Cactus_Medium_Hyde_Mint_Variant.jpg"
         },
         {
           "id": 9,
-          "title": "Hydrangea",
+          "title": "Money Tree Plant",
           "short_description": "Bushy plant with large, colorful blooms.",
           "price": 45.0,
-          "image": "https://www.thespruce.com/thmb/suArUicLOsBodSHAlpuWcDUyW_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hydrangea-plants-4846750-hero-bfcfc14dd29042babb5a329b4c15302f.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Money-Tree_Small_Marcelle-Gold_Variant.jpg"
         },
         {
           "id": 10,
-          "title": "Daisy",
+          "title": "Large Fiddle Leaf Fig Tree",
           "short_description": "Cheerful plant with white petals and yellow centers.",
           "price": 12.0,
-          "image": "https://www.thespruce.com/thmb/A_i03tm6SV_7LBiEV3d6VRXqz8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-shasta-daisy-leucanthemum-x-superbum-5090006-hero-04b03b464e35429ea0c2a9ed8fce2902.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Large-Fiddle-leaf-fig-tree_Large_Helena_Tan_Variant.jpg"
         },
         {
           "id": 11,
-          "title": "Sunflower",
+          "title": "Pothos Marble Queen",
           "short_description": "Tall plant with large, yellow flowers.",
           "price": 15.0,
-          "image": "https://www.thespruce.com/thmb/Z13N2kwPTUMNRbhwXrYoLtRfWJw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-and-care-for-sunflowers-1402298-hero-a779670d7c7b4c71a84f8f2b7eb7096d.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_marble-queen-pothos_variant_medium_hyde_cream.jpg"
         },
         {
           "id": 12,
-          "title": "Marigold",
+          "title": "Olive Tree",
           "short_description": "Bright plant with orange and yellow flowers.",
           "price": 10.0,
-          "image": "https://www.thespruce.com/thmb/UHOFUgQhLGmPglxZ5hINybLfwqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-marigolds-1402868-hero-8909de201cf74c1da43220de3c9f3d24.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Succulents",
-      "plants": [
-        {
-          "id": 13,
-          "title": "Aloe Vera",
-          "short_description": "Medicinal plant with thick, fleshy leaves.",
-          "price": 20.0,
-          "image": "https://www.thespruce.com/thmb/hm_XDGVfdtLGr-SesR44U-vkjwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-aloe-vera-plants-1902747-06-bf7f3c57674249c1b1255097c1f7d560.jpg"
-        },
-        {
-          "id": 14,
-          "title": "Echeveria",
-          "short_description": "Rosette-shaped succulent with colorful leaves.",
-          "price": 15.0,
-          "image": "https://www.thespruce.com/thmb/FHofPZStUj3vlY8czfBLOffuQsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-echeveria-1902753-04-55f89aa36b7c4cf98f8798abeb94a810.jpg"
-        },
-        {
-          "id": 15,
-          "title": "Jade Plant",
-          "short_description": "Popular succulent with thick, shiny leaves.",
-          "price": 25.0,
-          "image": "https://www.thespruce.com/thmb/-M8B3OBTD5urwVbTXfsZzPpTclo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-jade-plants-1902750-07-488c181a1d7f4e95b36564de95b5d70e.jpg"
-        },
-        {
-          "id": 16,
-          "title": "Haworthia",
-          "short_description": "Small succulent with patterned leaves.",
-          "price": 12.0,
-          "image": "https://www.thespruce.com/thmb/1GB3u8wF0QJcG6p4xg5aIdGAChg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-haworthia-1902764-03-fcbe8ff299bd4c8294fdac7be1e43b60.jpg"
-        },
-        {
-          "id": 17,
-          "title": "Sedum",
-          "short_description": "Versatile succulent with clusters of leaves.",
-          "price": 18.0,
-          "image": "https://www.thespruce.com/thmb/qHCXkL-RDwJXkp9RIhNV6sOLfaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-sedum-plants-1402906-hero-03714b3b69cc42e99c8c187346694935.jpg"
-        },
-        {
-          "id": 18,
-          "title": "Cactus",
-          "short_description": "Spiky plant that thrives in arid environments.",
-          "price": 20.0,
-          "image": "https://www.thespruce.com/thmb/lRaWOCQ9Fz5o0tC0WaAaGVmHdIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-cactus-plants-1902749-05-5c3ffb3e7b1a47b2a13223c93ecdb4e1.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/The-Sill_OliveTree_Medium_Hyde_Cream_Variant.jpg"
         }
       ]
     }
