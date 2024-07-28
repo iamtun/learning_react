@@ -5,9 +5,13 @@ import data from "@/data/app.json";
 import { Link } from "react-router-dom";
 import { FiShoppingCart } from "react-icons/fi";
 import { Badge } from "antd";
+import { useSelector } from "react-redux";
 
 const Header = () => {
-  const productCount = 0;
+  const productCount = useSelector(
+    (state) => state.product.productInCards.length
+  );
+  
   return (
     <header className={styles.container}>
       <div className={styles.left}>
