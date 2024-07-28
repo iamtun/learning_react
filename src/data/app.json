@@ -6,10 +6,11 @@
   },
   "categories": [
     {
-      "name": "Indoor Plants",
+      "name": "House Plants",
       "plants": [
         {
           "id": 1,
+          "is_sale": true,
           "title": "Snake Plant",
           "short_description": "Low maintenance plant with striking leaves.",
           "price": 25.0,
@@ -17,6 +18,7 @@
         },
         {
           "id": 2,
+          "is_sale": true,
           "title": "Spider Plant",
           "short_description": "Air-purifying plant with arching leaves.",
           "price": 15.0,
@@ -24,6 +26,7 @@
         },
         {
           "id": 3,
+          "is_sale": true,
           "title": "Peace Lily",
           "short_description": "Elegant plant with white flowers.",
           "price": 30.0,
@@ -31,6 +34,7 @@
         },
         {
           "id": 4,
+          "is_sale": true,
           "title": "ZZ Plant",
           "short_description": "Resilient plant with shiny, dark green leaves.",
           "price": 35.0,
@@ -38,6 +42,7 @@
         },
         {
           "id": 5,
+          "is_sale": true,
           "title": "Philodendron",
           "short_description": "Tropical plant with heart-shaped leaves.",
           "price": 20.0,
@@ -45,6 +50,7 @@
         },
         {
           "id": 6,
+          "is_sale": true,
           "title": "Pothos",
           "short_description": "Trailing vine with variegated leaves.",
           "price": 18.0,
@@ -57,6 +63,7 @@
       "plants": [
         {
           "id": 7,
+          "is_sale": false,
           "title": "Rose",
           "short_description": "Classic flower known for its beauty and fragrance.",
           "price": 40.0,
@@ -64,6 +71,7 @@
         },
         {
           "id": 8,
+          "is_sale": false,
           "title": "Peruvian Nana Cactus",
           "short_description": "Fragrant plant with purple flowers.",
           "price": 22.0,
@@ -71,6 +79,7 @@
         },
         {
           "id": 9,
+          "is_sale": false,
           "title": "Money Tree Plant",
           "short_description": "Bushy plant with large, colorful blooms.",
           "price": 45.0,
@@ -78,6 +87,7 @@
         },
         {
           "id": 10,
+          "is_sale": false,
           "title": "Large Fiddle Leaf Fig Tree",
           "short_description": "Cheerful plant with white petals and yellow centers.",
           "price": 12.0,
@@ -85,6 +95,7 @@
         },
         {
           "id": 11,
+          "is_sale": false,
           "title": "Pothos Marble Queen",
           "short_description": "Tall plant with large, yellow flowers.",
           "price": 15.0,
@@ -92,10 +103,64 @@
         },
         {
           "id": 12,
+          "is_sale": false,
           "title": "Olive Tree",
           "short_description": "Bright plant with orange and yellow flowers.",
           "price": 10.0,
           "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/The-Sill_OliveTree_Medium_Hyde_Cream_Variant.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Small Plants",
+      "plants": [
+        {
+          "id": 13,
+          "is_sale": false,
+          "title": "Prickly Pear Cactus",
+          "short_description": "Classic flower known for its beauty and fragrance.",
+          "price": 45.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Opuntia-Josephs-Coat_Small_Westcott_Black_Variant.jpg"
+        },
+        {
+          "id": 14,
+          "is_sale": false,
+          "title": "Dracaena Giganta",
+          "short_description": "Fragrant plant with purple flowers.",
+          "price": 68.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Dracaena-Giganta_Small_Hyde_Olive_Variant.jpg"
+        },
+        {
+          "id": 15,
+          "is_sale": false,
+          "title": "Parlor Palm",
+          "short_description": "Bushy plant with large, colorful blooms.",
+          "price": 45.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_parlor-palm_variant_small_grant_black.jpg"
+        },
+        {
+          "id": 16,
+          "is_sale": false,
+          "title": "Monstera /‘Thai Constellation/’",
+          "short_description": "Cheerful plant with white petals and yellow centers.",
+          "price": 55.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Thai-Consetllation_Small_Marianne_White_Variant-lowres.jpg"
+        },
+        {
+          "id": 17,
+          "is_sale": false,
+          "title": "Bromeliad Vriesea Evita Yellow",
+          "short_description": "Tall plant with large, yellow flowers.",
+          "price": 78.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_bromeliad-vriesea-evita-yellow_small_marianne_white_variant.jpg"
+        },
+        {
+          "id": 18,
+          "is_sale": false,
+          "title": "Petite Purple Orchid",
+          "short_description": "Bright plant with orange and yellow flowers.",
+          "price": 80.0,
+          "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-piedmont-orchid_purple.jpg"
         }
       ]
     }
