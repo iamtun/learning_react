@@ -1,3 +1,3 @@
 import Header from "./header";
-
-export { Header };
+import Category from "./category";
+export { Header, Category };
