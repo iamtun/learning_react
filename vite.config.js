@@ -10,7 +10,7 @@ export default defineConfig(() => {
 
   return {
     plugins: [react()],
-    base: "/learning_react",
+    base: "/",
     resolve: {
       alias: [
         {
